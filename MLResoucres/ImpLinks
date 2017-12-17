@@ -1,0 +1,6 @@
+Understanding LSTM Colahs Blog -> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+Tensor FLow Tutorial for LSTM -> https://www.tensorflow.org/tutorials/recurrent
+
+Word to Vec -> my git tensorflow/examples/tutorials/word2vec/word2vec_basic.py 
+
+ implementation that showcases some more advanced TensorFlow principles about how to efficiently use threads to move data into a text model, how to checkpoint during training, etc. ->  models/tutorials/embedding/word2vec.py
